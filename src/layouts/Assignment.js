@@ -15,7 +15,7 @@ import Maps from "views/workloads/Maps.js";
 import Settings from "views/workloads/Settings.js";
 import Tables from "views/workloads/Tables.js";
 
-export default function Workloads() {
+export default function Assignment() {
   return (
     <>
       <Sidebar />
